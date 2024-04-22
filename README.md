@@ -7,12 +7,12 @@ This is a basic CRUD application built with Spring Boot. It provides RESTful API
 - Spring Data JPA
 - H2 Database (for demo purposes, can be easily switched to other databases)
 - Maven (for dependency management)
-- Java 11
+- Java 17
 
 ## Getting Started
 
 ### Prerequisites
-- Java 11 installed on your machine
+- Java 17 installed on your machine
 - Maven installed on your machine (if not using an IDE with built-in Maven support)
 
 ### Setup
